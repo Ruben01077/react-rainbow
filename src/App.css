@@ -1,3 +1,19 @@
+.colorBock{
+
+  height: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+
+}
+
+button, input{
+
+  font-size: 30px;
+
+}
+
 .App {
   text-align: center;
 }
